@@ -1,7 +1,7 @@
 name: OPTYVA
 favicon: null
-layout_spectrum: 0.9670818564482033
-typography_spectrum: 0.45891264686360955
+layout_spectrum: 1
+typography_spectrum: 0.49232
 cta:
   domain: null
   bucket: null

@@ -1,0 +1,28 @@
+name: OPTYVA
+favicon: null
+layout_spectrum: 0.9670818564482033
+typography_spectrum: 0.45891264686360955
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.897009662585333
+  lightness: 0.06694232556037605
+  saturation: 0.45035268273204565
+  rhythmicContrast: 0.225856525124982
+purpose: []
